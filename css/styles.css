@@ -84,6 +84,6 @@ body {
 @media (max-width:476px) {
     #showcase::before {
         background: url('../img/girl-img.jpg')no-repeat/cover;
-        background-position-x: 57%;
+        background-position-x: 62%;
     }
 }
