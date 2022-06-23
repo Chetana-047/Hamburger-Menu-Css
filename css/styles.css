@@ -80,3 +80,10 @@ body {
 .btn:hover {
     opacity: 0.7;
 }
+
+@media (max-width:476px) {
+    #showcase::before {
+        background: url('../img/girl-img.jpg')no-repeat/cover;
+        background-position-x: 57%;
+    }
+}
